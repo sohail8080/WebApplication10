@@ -8,6 +8,10 @@ using WebApplication10.Models;
 
 namespace WebApplication10.Controllers
 {
+
+
+
+
     public class HomeController : Controller
     {
         public IActionResult Index()
